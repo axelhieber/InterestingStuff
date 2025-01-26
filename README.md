@@ -1,8 +1,8 @@
 # Interesting Stuff
+<br>
 
-
-##Bücher
+##Bücher <br>
 Artificial Intelligence: A Modern Approach
-
-#Tools Libs etc
+<br><br>
+#Tools Libs etc<br>
 ANTLR (ANother Tool for Language Recognition) 
