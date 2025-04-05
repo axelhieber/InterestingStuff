@@ -6,7 +6,7 @@ Artificial Intelligence: A Modern Approach
 <br><br>
 ## Tools Libs etc<br>
 ANTLR (ANother Tool for Language Recognition) 
-PlantUML https://plantuml.com/de/sequence-diagram
+PlantUML https://plantuml.com/
 
 <br><br>
 ## Tutorials
