@@ -15,6 +15,9 @@ PlantUML https://plantuml.com/
 
 <br><br>
 ## Tutorials
+https://github.com/codecrafters-io/build-your-own-x
+
+
 https://www.youtube.com/watch?v=u2Juz5sQyYQ Making Smallest Possible Linux Distro (x64) <br>
 https://pacman128.github.io/pcasm/ ASM
 
