@@ -7,6 +7,9 @@ Artificial Intelligence: A Modern Approach
 "Understanding Cryptography" – Christof Paar & Jan Pelzl
 
  "Introduction to Modern Cryptography" – Jonathan Katz & Yehuda Lindell
+
+ "Matrix Computations" — Gene H. Golub, Charles F. Van Loan
+ 
 <br><br>
 ## Tools Libs etc<br>
 ANTLR (ANother Tool for Language Recognition) 
