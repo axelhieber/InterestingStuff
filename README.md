@@ -15,6 +15,8 @@ Artificial Intelligence: A Modern Approach
  The Pragmatic Programmer. From Journeyman to Master: From Journeyman to Master. Foreword by Ward Cunningham
 
 https://fbb-git.gitlab.io/cppannotations/cppannotations/html/index.html
+
+https://www.cplusplusconcurrencyinaction.com/
  
 <br><br>
 ## Tools Libs etc<br>
