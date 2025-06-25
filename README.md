@@ -9,6 +9,12 @@ Artificial Intelligence: A Modern Approach
  "Introduction to Modern Cryptography" – Jonathan Katz & Yehuda Lindell
 
  "Matrix Computations" — Gene H. Golub, Charles F. Van Loan
+
+ Professional C++, 6th edition, by Marc Gregoire 
+
+ The Pragmatic Programmer. From Journeyman to Master: From Journeyman to Master. Foreword by Ward Cunningham
+
+https://fbb-git.gitlab.io/cppannotations/cppannotations/html/index.html
  
 <br><br>
 ## Tools Libs etc<br>
