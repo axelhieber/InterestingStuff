@@ -26,6 +26,8 @@ PlantUML https://plantuml.com/
 
 <br><br>
 ## Tutorials
+https://statquest.org/video-index/ - statistic & ml
+
 https://github.com/codecrafters-io/build-your-own-x
 
 
